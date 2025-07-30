@@ -1,44 +1,40 @@
-# JOVAC-x-CB-2025
+💻 Full Stack Development - JOVAC Internship
 
-Welcome to my *Full Stack Development* internship repository!  
-This space includes all training exercises, tasks, and final projects for the JOVAC x CB Internship 2025.
-
----
-
-## 🗓️ Internship Timeline
-
-
-📆 Duration       : June 10, 2025 — November 2025
-📚 Training Phase : June 10 — July 31
-🛠️ Project Phase  : August — November
----
-
-## 🧰 Tech Stack Overview
+> **Internship Duration:** June 10, 2025 – November 2025  
+> **Organized by:** CEA Department, GLA University  
+> **Training Partner:** Coding Blocks
 
 ---
 
-### 🖼️ Frontend Technologies
-- **HTML5**, **CSS3**, **JavaScript (ES6+)**
-- Responsive Design with **Bootstrap** / **Tailwind CSS**
-- Component-based UI with **React.js**
+📌 Overview
+
+This repository contains all the code, assignments, and project work completed as part of the **Full Stack Development Internship (JOVAC)**. The training focuses on building web applications using modern frontend and backend technologies.
 
 ---
 
-### 🔧 Backend Technologies
-- Server-side scripting with **Node.js**
-- RESTful APIs using **Express.js**
-- Database handling with **MongoDB** / **MySQL**
+📅 Timeline
+
+- **Training Phase:** June 10 – July 31  
+- **Project Phase:** August – November
 
 ---
 
-### 🛠 Tools & Utilities
-- Code Editor: **Visual Studio Code**
-- API Testing: **Postman**
-- Version Control: **Git & GitHub**
+## 🛠️ Tech Stack Covered
+
+### Frontend
+- HTML, CSS, JavaScript
+- Bootstrap / Tailwind CSS
+- React.js
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB / MySQL
+
+### Tools
+- Git & GitHub
+- VS Code
+- Postman
+- Deployment: Netlify / Vercel / Render / Railway
 
 ---
-
-### 🚀 Deployment Platforms
-- **Netlify**, **Vercel**, **Render**, **Railway**
-
-Stay tuned for updates as I progress through the internship 🚀
